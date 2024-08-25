@@ -7,12 +7,17 @@ using Npgsql;
 
 var builder = WebApplication.CreateBuilder(args);
 
+// Create a single instance of NpgsqlDataSourceBuilder
+var dataSourceBuilder = new NpgsqlDataSourceBuilder(builder.Configuration.GetConnectionString("DefaultConnection"));
+dataSourceBuilder.EnableDynamicJson(); // Enable dynamic JSON serialization
+
+// Build the data source once and reuse it
+var dataSource = dataSourceBuilder.Build();
+
 // Add services to the container.
 builder.Services.AddDbContext<GameDbContext>(options =>
 {
-    var dataSourceBuilder = new NpgsqlDataSourceBuilder(builder.Configuration.GetConnectionString("DefaultConnection"));
-    dataSourceBuilder.EnableDynamicJson(); // Enable dynamic JSON serialization
-    options.UseNpgsql(dataSourceBuilder.Build());
+    options.UseNpgsql(dataSource);
 });
 
 builder.Services.AddScoped<IGameRepository, GameRepository>();

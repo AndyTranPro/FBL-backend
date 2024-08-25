@@ -212,3 +212,4 @@ F:\CSharp_project\FooBooLoo\FooBooLooGameAPI\obj\Debug\net8.0\refint\FooBooLooGa
 F:\CSharp_project\FooBooLoo\FooBooLooGameAPI\obj\Debug\net8.0\FooBooLooGameAPI.pdb
 F:\CSharp_project\FooBooLoo\FooBooLooGameAPI\obj\Debug\net8.0\FooBooLooGameAPI.genruntimeconfig.cache
 F:\CSharp_project\FooBooLoo\FooBooLooGameAPI\obj\Debug\net8.0\ref\FooBooLooGameAPI.dll
+f:\CSharp_project\FooBooLoo\FooBooLooGameAPI\obj\Debug\net8.0\FooBooLooGameAPI.sourcelink.json
