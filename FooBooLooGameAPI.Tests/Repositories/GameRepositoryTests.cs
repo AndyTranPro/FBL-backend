@@ -22,6 +22,8 @@ public class GameRepositoryTests
         {
             Name = "TestGame",
             Author = "TestAuthor",
+            Min = 1,
+            Max = 100,
             RuleSet = new Dictionary<int, string> { { 3, "Fizz" }, { 5, "Buzz" } }
         });
         _context.SaveChanges();
@@ -35,6 +37,8 @@ public class GameRepositoryTests
         {
             Name = "NewGame",
             Author = "NewAuthor",
+            Min = 1,
+            Max = 100,
             RuleSet = new Dictionary<int, string> { { 2, "Foo" }, { 4, "Bar" } }
         };
 
@@ -52,6 +56,8 @@ public class GameRepositoryTests
         {
             Name = "TestGame",
             Author = "TestAuthor",
+            Min = 1,
+            Max = 100,
             RuleSet = new Dictionary<int, string> { { 3, "Fizz" }, { 5, "Buzz" } }
         };
         var result = await _repository.CreateGameAsync(newGame);

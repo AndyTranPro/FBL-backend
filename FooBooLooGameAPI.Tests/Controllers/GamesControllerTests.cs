@@ -24,7 +24,13 @@ public class GamesControllerTests
     [Fact]
     public async Task CreateGame_ShouldReturnCreatedAtAction()
     {
-        var newGame = new Game { GameId = 1, Name = "TestGame", Author = "Author" };
+        var newGame = new Game { 
+            GameId = 1, 
+            Name = "TestGame", 
+            Author = "Author", 
+            Min = 1, Max = 100, 
+            RuleSet = new Dictionary<int, string> { { 3, "Fizz" }, { 5, "Buzz" } } 
+        };
         var dto = new CreateGameDto { Name = "TestGame", Author = "Author", Rules = new Dictionary<int, string>() };
 
         _mockRepo.Setup(repo => repo.CreateGameAsync(It.IsAny<Game>())).ReturnsAsync(newGame);
@@ -39,7 +45,7 @@ public class GamesControllerTests
     [Fact]
     public async Task CreateGame_ShouldReturnConflictResult()
     {
-        var dto = new CreateGameDto { Name = "TestGame", Author = "Author", Rules = new Dictionary<int, string>() };
+        var dto = new CreateGameDto { Name = "TestGame", Author = "Author", Min = 1, Max = 100, Rules = new Dictionary<int, string>() };
 
         _mockRepo.Setup(repo => repo.CreateGameAsync(It.IsAny<Game>())).ReturnsAsync((Game?)null);
 

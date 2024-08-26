@@ -33,8 +33,8 @@ public class GameServiceTests
     {
         var games = new List<Game>
         {
-            new Game { Name = "TestGame1", Author = "Author1" },
-            new Game { Name = "TestGame2", Author = "Author2" }
+            new Game { Name = "TestGame1", Author = "Author1", Min = 1, Max = 100 },
+            new Game { Name = "TestGame2", Author = "Author2", Min = 1, Max = 100 }
         };
 
         _mockRepo.Setup(repo => repo.GetGamesAsync()).ReturnsAsync(games);

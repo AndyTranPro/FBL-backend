@@ -1,0 +1,340 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "F:\\CSharp_project\\FooBooLoo\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{67D8CB80-76D2-41AD-B4F2-C70942EA5201}|FooBooLooGameAPI.Tests\\FooBooLooGameAPI.Tests.csproj|f:\\csharp_project\\foobooloo\\foobooloogameapi.tests\\controllers\\gamescontrollertests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{67D8CB80-76D2-41AD-B4F2-C70942EA5201}|FooBooLooGameAPI.Tests\\FooBooLooGameAPI.Tests.csproj|solutionrelative:foobooloogameapi.tests\\controllers\\gamescontrollertests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{67D8CB80-76D2-41AD-B4F2-C70942EA5201}|FooBooLooGameAPI.Tests\\FooBooLooGameAPI.Tests.csproj|f:\\csharp_project\\foobooloo\\foobooloogameapi.tests\\services\\sessionservicetests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{67D8CB80-76D2-41AD-B4F2-C70942EA5201}|FooBooLooGameAPI.Tests\\FooBooLooGameAPI.Tests.csproj|solutionrelative:foobooloogameapi.tests\\services\\sessionservicetests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{67D8CB80-76D2-41AD-B4F2-C70942EA5201}|FooBooLooGameAPI.Tests\\FooBooLooGameAPI.Tests.csproj|f:\\csharp_project\\foobooloo\\foobooloogameapi.tests\\repositories\\sessionrepositorytests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{67D8CB80-76D2-41AD-B4F2-C70942EA5201}|FooBooLooGameAPI.Tests\\FooBooLooGameAPI.Tests.csproj|solutionrelative:foobooloogameapi.tests\\repositories\\sessionrepositorytests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{67D8CB80-76D2-41AD-B4F2-C70942EA5201}|FooBooLooGameAPI.Tests\\FooBooLooGameAPI.Tests.csproj|f:\\csharp_project\\foobooloo\\foobooloogameapi.tests\\repositories\\gamerepositorytests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{67D8CB80-76D2-41AD-B4F2-C70942EA5201}|FooBooLooGameAPI.Tests\\FooBooLooGameAPI.Tests.csproj|solutionrelative:foobooloogameapi.tests\\repositories\\gamerepositorytests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{67D8CB80-76D2-41AD-B4F2-C70942EA5201}|FooBooLooGameAPI.Tests\\FooBooLooGameAPI.Tests.csproj|f:\\csharp_project\\foobooloo\\foobooloogameapi.tests\\controllers\\sessionscontrollertests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{67D8CB80-76D2-41AD-B4F2-C70942EA5201}|FooBooLooGameAPI.Tests\\FooBooLooGameAPI.Tests.csproj|solutionrelative:foobooloogameapi.tests\\controllers\\sessionscontrollertests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{67D8CB80-76D2-41AD-B4F2-C70942EA5201}|FooBooLooGameAPI.Tests\\FooBooLooGameAPI.Tests.csproj|f:\\csharp_project\\foobooloo\\foobooloogameapi.tests\\services\\gameservicetests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{67D8CB80-76D2-41AD-B4F2-C70942EA5201}|FooBooLooGameAPI.Tests\\FooBooLooGameAPI.Tests.csproj|solutionrelative:foobooloogameapi.tests\\services\\gameservicetests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2E8ABDF6-4752-483E-96F4-BBCBC57595BA}|FooBooLooGameAPI\\FooBooLooGameAPI.csproj|f:\\csharp_project\\foobooloo\\foobooloogameapi\\dtos\\creategamedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2E8ABDF6-4752-483E-96F4-BBCBC57595BA}|FooBooLooGameAPI\\FooBooLooGameAPI.csproj|solutionrelative:foobooloogameapi\\dtos\\creategamedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2E8ABDF6-4752-483E-96F4-BBCBC57595BA}|FooBooLooGameAPI\\FooBooLooGameAPI.csproj|f:\\csharp_project\\foobooloo\\foobooloogameapi\\controllers\\sessionscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2E8ABDF6-4752-483E-96F4-BBCBC57595BA}|FooBooLooGameAPI\\FooBooLooGameAPI.csproj|solutionrelative:foobooloogameapi\\controllers\\sessionscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2E8ABDF6-4752-483E-96F4-BBCBC57595BA}|FooBooLooGameAPI\\FooBooLooGameAPI.csproj|f:\\csharp_project\\foobooloo\\foobooloogameapi\\repositories\\implementations\\gamerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2E8ABDF6-4752-483E-96F4-BBCBC57595BA}|FooBooLooGameAPI\\FooBooLooGameAPI.csproj|solutionrelative:foobooloogameapi\\repositories\\implementations\\gamerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2E8ABDF6-4752-483E-96F4-BBCBC57595BA}|FooBooLooGameAPI\\FooBooLooGameAPI.csproj|f:\\csharp_project\\foobooloo\\foobooloogameapi\\dtos\\startsessiondto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2E8ABDF6-4752-483E-96F4-BBCBC57595BA}|FooBooLooGameAPI\\FooBooLooGameAPI.csproj|solutionrelative:foobooloogameapi\\dtos\\startsessiondto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2E8ABDF6-4752-483E-96F4-BBCBC57595BA}|FooBooLooGameAPI\\FooBooLooGameAPI.csproj|f:\\csharp_project\\foobooloo\\foobooloogameapi\\services\\sessionservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2E8ABDF6-4752-483E-96F4-BBCBC57595BA}|FooBooLooGameAPI\\FooBooLooGameAPI.csproj|solutionrelative:foobooloogameapi\\services\\sessionservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2E8ABDF6-4752-483E-96F4-BBCBC57595BA}|FooBooLooGameAPI\\FooBooLooGameAPI.csproj|f:\\csharp_project\\foobooloo\\foobooloogameapi\\controllers\\gamescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2E8ABDF6-4752-483E-96F4-BBCBC57595BA}|FooBooLooGameAPI\\FooBooLooGameAPI.csproj|solutionrelative:foobooloogameapi\\controllers\\gamescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2E8ABDF6-4752-483E-96F4-BBCBC57595BA}|FooBooLooGameAPI\\FooBooLooGameAPI.csproj|f:\\csharp_project\\foobooloo\\foobooloogameapi\\services\\gameservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2E8ABDF6-4752-483E-96F4-BBCBC57595BA}|FooBooLooGameAPI\\FooBooLooGameAPI.csproj|solutionrelative:foobooloogameapi\\services\\gameservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2E8ABDF6-4752-483E-96F4-BBCBC57595BA}|FooBooLooGameAPI\\FooBooLooGameAPI.csproj|f:\\csharp_project\\foobooloo\\foobooloogameapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2E8ABDF6-4752-483E-96F4-BBCBC57595BA}|FooBooLooGameAPI\\FooBooLooGameAPI.csproj|solutionrelative:foobooloogameapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2E8ABDF6-4752-483E-96F4-BBCBC57595BA}|FooBooLooGameAPI\\FooBooLooGameAPI.csproj|f:\\csharp_project\\foobooloo\\foobooloogameapi\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{2E8ABDF6-4752-483E-96F4-BBCBC57595BA}|FooBooLooGameAPI\\FooBooLooGameAPI.csproj|solutionrelative:foobooloogameapi\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2E8ABDF6-4752-483E-96F4-BBCBC57595BA}|FooBooLooGameAPI\\FooBooLooGameAPI.csproj|f:\\csharp_project\\foobooloo\\foobooloogameapi\\foobooloogameapi.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}",
+      "RelativeMoniker": "D:0:0:{2E8ABDF6-4752-483E-96F4-BBCBC57595BA}|FooBooLooGameAPI\\FooBooLooGameAPI.csproj|solutionrelative:foobooloogameapi\\foobooloogameapi.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2E8ABDF6-4752-483E-96F4-BBCBC57595BA}|FooBooLooGameAPI\\FooBooLooGameAPI.csproj|f:\\csharp_project\\foobooloo\\foobooloogameapi\\data\\gamedbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2E8ABDF6-4752-483E-96F4-BBCBC57595BA}|FooBooLooGameAPI\\FooBooLooGameAPI.csproj|solutionrelative:foobooloogameapi\\data\\gamedbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 8,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:132:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:133:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:131:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:130:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "GamesControllerTests.cs",
+              "DocumentMoniker": "F:\\CSharp_project\\FooBooLoo\\FooBooLooGameAPI.Tests\\Controllers\\GamesControllerTests.cs",
+              "RelativeDocumentMoniker": "FooBooLooGameAPI.Tests\\Controllers\\GamesControllerTests.cs",
+              "ToolTip": "F:\\CSharp_project\\FooBooLoo\\FooBooLooGameAPI.Tests\\Controllers\\GamesControllerTests.cs",
+              "RelativeToolTip": "FooBooLooGameAPI.Tests\\Controllers\\GamesControllerTests.cs",
+              "ViewState": "AQIAACYAAAAAAAAAAAAAADAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-26T14:21:45.662Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "SessionServiceTests.cs",
+              "DocumentMoniker": "F:\\CSharp_project\\FooBooLoo\\FooBooLooGameAPI.Tests\\Services\\SessionServiceTests.cs",
+              "RelativeDocumentMoniker": "FooBooLooGameAPI.Tests\\Services\\SessionServiceTests.cs",
+              "ToolTip": "F:\\CSharp_project\\FooBooLoo\\FooBooLooGameAPI.Tests\\Services\\SessionServiceTests.cs",
+              "RelativeToolTip": "FooBooLooGameAPI.Tests\\Services\\SessionServiceTests.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-26T14:18:27.25Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "GameRepositoryTests.cs",
+              "DocumentMoniker": "F:\\CSharp_project\\FooBooLoo\\FooBooLooGameAPI.Tests\\Repositories\\GameRepositoryTests.cs",
+              "RelativeDocumentMoniker": "FooBooLooGameAPI.Tests\\Repositories\\GameRepositoryTests.cs",
+              "ToolTip": "F:\\CSharp_project\\FooBooLoo\\FooBooLooGameAPI.Tests\\Repositories\\GameRepositoryTests.cs",
+              "RelativeToolTip": "FooBooLooGameAPI.Tests\\Repositories\\GameRepositoryTests.cs",
+              "ViewState": "AQIAABMAAAAAAAAAAAAQwBoAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-26T14:12:48.275Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "SessionRepositoryTests.cs",
+              "DocumentMoniker": "F:\\CSharp_project\\FooBooLoo\\FooBooLooGameAPI.Tests\\Repositories\\SessionRepositoryTests.cs",
+              "RelativeDocumentMoniker": "FooBooLooGameAPI.Tests\\Repositories\\SessionRepositoryTests.cs",
+              "ToolTip": "F:\\CSharp_project\\FooBooLoo\\FooBooLooGameAPI.Tests\\Repositories\\SessionRepositoryTests.cs",
+              "RelativeToolTip": "FooBooLooGameAPI.Tests\\Repositories\\SessionRepositoryTests.cs",
+              "ViewState": "AQIAAG8AAAAAAAAAAAAIwBkAAAAWAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-24T10:11:15.127Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e1b7d1f8-9b3c-49b1-8f4f-bfc63a88835d}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "SessionsControllerTests.cs",
+              "DocumentMoniker": "F:\\CSharp_project\\FooBooLoo\\FooBooLooGameAPI.Tests\\Controllers\\SessionsControllerTests.cs",
+              "RelativeDocumentMoniker": "FooBooLooGameAPI.Tests\\Controllers\\SessionsControllerTests.cs",
+              "ToolTip": "F:\\CSharp_project\\FooBooLoo\\FooBooLooGameAPI.Tests\\Controllers\\SessionsControllerTests.cs",
+              "RelativeToolTip": "FooBooLooGameAPI.Tests\\Controllers\\SessionsControllerTests.cs",
+              "ViewState": "AQIAAG0AAAAAAAAAAAAiwDsAAAAoAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-24T10:25:04.713Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "CreateGameDto.cs",
+              "DocumentMoniker": "F:\\CSharp_project\\FooBooLoo\\FooBooLooGameAPI\\DTOs\\CreateGameDto.cs",
+              "RelativeDocumentMoniker": "FooBooLooGameAPI\\DTOs\\CreateGameDto.cs",
+              "ToolTip": "F:\\CSharp_project\\FooBooLoo\\FooBooLooGameAPI\\DTOs\\CreateGameDto.cs",
+              "RelativeToolTip": "FooBooLooGameAPI\\DTOs\\CreateGameDto.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAgAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-24T15:26:56.161Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "GameServiceTests.cs",
+              "DocumentMoniker": "F:\\CSharp_project\\FooBooLoo\\FooBooLooGameAPI.Tests\\Services\\GameServiceTests.cs",
+              "RelativeDocumentMoniker": "FooBooLooGameAPI.Tests\\Services\\GameServiceTests.cs",
+              "ToolTip": "F:\\CSharp_project\\FooBooLoo\\FooBooLooGameAPI.Tests\\Services\\GameServiceTests.cs",
+              "RelativeToolTip": "FooBooLooGameAPI.Tests\\Services\\GameServiceTests.cs",
+              "ViewState": "AQIAABIAAAAAAAAAAAA1wCkAAAA0AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-24T10:04:53.687Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "SessionsController.cs",
+              "DocumentMoniker": "F:\\CSharp_project\\FooBooLoo\\FooBooLooGameAPI\\Controllers\\SessionsController.cs",
+              "RelativeDocumentMoniker": "FooBooLooGameAPI\\Controllers\\SessionsController.cs",
+              "ToolTip": "F:\\CSharp_project\\FooBooLoo\\FooBooLooGameAPI\\Controllers\\SessionsController.cs",
+              "RelativeToolTip": "FooBooLooGameAPI\\Controllers\\SessionsController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-24T10:24:56.703Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "GameRepository.cs",
+              "DocumentMoniker": "F:\\CSharp_project\\FooBooLoo\\FooBooLooGameAPI\\Repositories\\Implementations\\GameRepository.cs",
+              "RelativeDocumentMoniker": "FooBooLooGameAPI\\Repositories\\Implementations\\GameRepository.cs",
+              "ToolTip": "F:\\CSharp_project\\FooBooLoo\\FooBooLooGameAPI\\Repositories\\Implementations\\GameRepository.cs",
+              "RelativeToolTip": "FooBooLooGameAPI\\Repositories\\Implementations\\GameRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-24T14:24:46.971Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "SessionService.cs",
+              "DocumentMoniker": "F:\\CSharp_project\\FooBooLoo\\FooBooLooGameAPI\\Services\\SessionService.cs",
+              "RelativeDocumentMoniker": "FooBooLooGameAPI\\Services\\SessionService.cs",
+              "ToolTip": "F:\\CSharp_project\\FooBooLoo\\FooBooLooGameAPI\\Services\\SessionService.cs",
+              "RelativeToolTip": "FooBooLooGameAPI\\Services\\SessionService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABgAAABHAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-24T15:24:33.88Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "StartSessionDto.cs",
+              "DocumentMoniker": "F:\\CSharp_project\\FooBooLoo\\FooBooLooGameAPI\\DTOs\\StartSessionDto.cs",
+              "RelativeDocumentMoniker": "FooBooLooGameAPI\\DTOs\\StartSessionDto.cs",
+              "ToolTip": "F:\\CSharp_project\\FooBooLoo\\FooBooLooGameAPI\\DTOs\\StartSessionDto.cs",
+              "RelativeToolTip": "FooBooLooGameAPI\\DTOs\\StartSessionDto.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-24T15:29:00.121Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "GamesController.cs",
+              "DocumentMoniker": "F:\\CSharp_project\\FooBooLoo\\FooBooLooGameAPI\\Controllers\\GamesController.cs",
+              "RelativeDocumentMoniker": "FooBooLooGameAPI\\Controllers\\GamesController.cs",
+              "ToolTip": "F:\\CSharp_project\\FooBooLoo\\FooBooLooGameAPI\\Controllers\\GamesController.cs",
+              "RelativeToolTip": "FooBooLooGameAPI\\Controllers\\GamesController.cs",
+              "ViewState": "AQIAABAAAAAAAAAAAAAQwB4AAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-24T13:05:45.34Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "GameService.cs",
+              "DocumentMoniker": "F:\\CSharp_project\\FooBooLoo\\FooBooLooGameAPI\\Services\\GameService.cs",
+              "RelativeDocumentMoniker": "FooBooLooGameAPI\\Services\\GameService.cs",
+              "ToolTip": "F:\\CSharp_project\\FooBooLoo\\FooBooLooGameAPI\\Services\\GameService.cs",
+              "RelativeToolTip": "FooBooLooGameAPI\\Services\\GameService.cs",
+              "ViewState": "AQIAAAUAAAAAAAAAAAAcwA4AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-24T15:09:53.043Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "F:\\CSharp_project\\FooBooLoo\\FooBooLooGameAPI\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "FooBooLooGameAPI\\Properties\\launchSettings.json",
+              "ToolTip": "F:\\CSharp_project\\FooBooLoo\\FooBooLooGameAPI\\Properties\\launchSettings.json",
+              "RelativeToolTip": "FooBooLooGameAPI\\Properties\\launchSettings.json",
+              "ViewState": "AQIAABgAAAAAAAAAAAAAAAwAAAAfAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-08-24T13:16:26.938Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "FooBooLooGameAPI.http",
+              "DocumentMoniker": "F:\\CSharp_project\\FooBooLoo\\FooBooLooGameAPI\\FooBooLooGameAPI.http",
+              "RelativeDocumentMoniker": "FooBooLooGameAPI\\FooBooLooGameAPI.http",
+              "ToolTip": "F:\\CSharp_project\\FooBooLoo\\FooBooLooGameAPI\\FooBooLooGameAPI.http",
+              "RelativeToolTip": "FooBooLooGameAPI\\FooBooLooGameAPI.http",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003502|",
+              "WhenOpened": "2024-08-24T13:16:16.792Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Program.cs",
+              "DocumentMoniker": "F:\\CSharp_project\\FooBooLoo\\FooBooLooGameAPI\\Program.cs",
+              "RelativeDocumentMoniker": "FooBooLooGameAPI\\Program.cs",
+              "ToolTip": "F:\\CSharp_project\\FooBooLoo\\FooBooLooGameAPI\\Program.cs",
+              "RelativeToolTip": "FooBooLooGameAPI\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABQAAAAtAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-24T13:06:40.802Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "GameDbContext.cs",
+              "DocumentMoniker": "F:\\CSharp_project\\FooBooLoo\\FooBooLooGameAPI\\Data\\GameDbContext.cs",
+              "RelativeDocumentMoniker": "FooBooLooGameAPI\\Data\\GameDbContext.cs",
+              "ToolTip": "F:\\CSharp_project\\FooBooLoo\\FooBooLooGameAPI\\Data\\GameDbContext.cs",
+              "RelativeToolTip": "FooBooLooGameAPI\\Data\\GameDbContext.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAzAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-24T10:34:58.834Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

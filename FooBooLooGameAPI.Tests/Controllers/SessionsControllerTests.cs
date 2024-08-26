@@ -39,7 +39,7 @@ public class SessionsControllerTests
     [Fact]
     public async Task GetNextNumber_ShouldReturnOkResultWithNumber()
     {
-        var game = new Game { GameId = 1, Min = 1, Max = 100 };
+        var game = new Game { GameId = 1, Author = "Player1", Min = 1, Max = 100, RuleSet = new Dictionary<int, string> { { 3, "Fizz" }, { 5, "Buzz" } } };
         var session = new Session { SessionId = 1, GameId = 1, Game = game, PlayerName = "Player1", Duration = 60 };
         var dto = new StartSessionDto { GameId = 1, PlayerName = "Player1", Duration = 60 };
 

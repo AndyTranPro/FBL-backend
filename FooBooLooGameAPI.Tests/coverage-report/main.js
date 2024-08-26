@@ -237,7 +237,7 @@ var assemblies = [
       { "name": "FooBooLooGameAPI.Repositories.Implementations.SessionRepository", "rp": "FooBooLooGameAPI_SessionRepository.html", "cl": 82, "ucl": 0, "cal": 82, "tl": 109, "cb": 20, "tb": 20, "cm": 0, "tm": 0, "lch": [], "bch": [], "mch": [], "hc": [], "metrics": { } },
       { "name": "FooBooLooGameAPI.Services.GameService", "rp": "FooBooLooGameAPI_GameService.html", "cl": 14, "ucl": 0, "cal": 14, "tl": 31, "cb": 0, "tb": 0, "cm": 0, "tm": 0, "lch": [], "bch": [], "mch": [], "hc": [], "metrics": { } },
       { "name": "FooBooLooGameAPI.Services.SessionService", "rp": "FooBooLooGameAPI_SessionService.html", "cl": 28, "ucl": 0, "cal": 28, "tl": 46, "cb": 0, "tb": 0, "cm": 0, "tm": 0, "lch": [], "bch": [], "mch": [], "hc": [], "metrics": { } },
-      { "name": "Program", "rp": "FooBooLooGameAPI_Program.html", "cl": 0, "ucl": 37, "cal": 37, "tl": 54, "cb": 0, "tb": 4, "cm": 0, "tm": 0, "lch": [], "bch": [], "mch": [], "hc": [], "metrics": { } },
+      { "name": "Program", "rp": "FooBooLooGameAPI_Program.html", "cl": 0, "ucl": 47, "cal": 47, "tl": 59, "cb": 0, "tb": 6, "cm": 0, "tm": 0, "lch": [], "bch": [], "mch": [], "hc": [], "metrics": { } },
     ]},
 ];
 

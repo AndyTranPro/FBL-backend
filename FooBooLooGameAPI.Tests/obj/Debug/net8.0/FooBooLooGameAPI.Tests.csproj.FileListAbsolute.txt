@@ -238,3 +238,4 @@ F:\CSharp_project\FooBooLoo\FooBooLooGameAPI.Tests\obj\Debug\net8.0\FooBooLooGam
 F:\CSharp_project\FooBooLoo\FooBooLooGameAPI.Tests\obj\Debug\net8.0\FooBooLo.A89824F4.Up2Date
 F:\CSharp_project\FooBooLoo\FooBooLooGameAPI.Tests\obj\Debug\net8.0\FooBooLooGameAPI.Tests.genruntimeconfig.cache
 F:\CSharp_project\FooBooLoo\FooBooLooGameAPI.Tests\obj\Debug\net8.0\ref\FooBooLooGameAPI.Tests.dll
+F:\CSharp_project\FooBooLoo\FooBooLooGameAPI.Tests\obj\Debug\net8.0\FooBooLooGameAPI.Tests.sourcelink.json

@@ -22,6 +22,8 @@ public class SessionRepositoryTests
         {
             Name = "TestGame",
             Author = "TestAuthor",
+            Min = 1,
+            Max = 100,
             RuleSet = new Dictionary<int, string> { { 3, "Fizz" }, { 5, "Buzz" } }
         };
 
