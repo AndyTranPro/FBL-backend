@@ -7130,8 +7130,8 @@
         "net8.0": {
           "targetAlias": "net8.0",
           "projectReferences": {
-            "F:\\CSharp_project\\FooBooLoo\\FooBooLooGameAPI\\FooBooLooGameAPI.csproj": {
-              "projectPath": "F:\\CSharp_project\\FooBooLoo\\FooBooLooGameAPI\\FooBooLooGameAPI.csproj"
+            "f:\\CSharp_project\\FooBooLoo\\FooBooLooGameAPI\\FooBooLooGameAPI.csproj": {
+              "projectPath": "f:\\CSharp_project\\FooBooLoo\\FooBooLooGameAPI\\FooBooLooGameAPI.csproj"
             }
           }
         }
